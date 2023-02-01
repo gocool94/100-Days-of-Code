@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T02:13:42.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.14" etag="bJjKiwrq5iXu1TUBi5Bu" type="github"><diagram name="Page-1" id="o9wpUOGPclo_U5KA9SGC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-01T06:21:44.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="61Xu406o5vgI9AoW6veH" version="20.8.14" type="github">
+  <diagram name="Page-1" id="o9wpUOGPclo_U5KA9SGC">
+    <mxGraphModel dx="407" dy="221" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-1" value="Python" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-2" value="Dynamically typed programming lang" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-3" value="Development" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-4" value="Testing" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-5" value="1) Web application development&lt;br&gt;2) Desktop application development&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="330" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-6" value="Website development" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-7" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-8" value="login" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="620" as="sourcePoint" />
+            <mxPoint x="360" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-10" value="profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="660" as="sourcePoint" />
+            <mxPoint x="420" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-12" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="680" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-13" value="Application Interface" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="550" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-14" value="Machine learning&lt;br&gt;Data Science" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-15" value="Python Basics&lt;br&gt;python problem solving&lt;br&gt;Python OOPS&lt;br&gt;OOPS problem solving&lt;br&gt;Development&lt;br&gt;- Website development&lt;br&gt;- API development&lt;br&gt;Testing&lt;br&gt;- pytest (module)&lt;br&gt;- Selenium&lt;br&gt;Test.!&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="950" width="245" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="sOLcqgTqkVt4UbnfaN87-16" value="IDE&lt;br&gt;Integrated dev environment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
