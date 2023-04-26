@@ -16,4 +16,9 @@ few emergencies demands to take a day off
 
 #100DaysOfCode
 
+## Important Links
+https://www.geeksforgeeks.org/top-10-python-developers-skills-that-you-must-know/
+https://www.geeksforgeeks.org/30-most-important-git-terminologies-that-developers-must-know/
+
+
 
